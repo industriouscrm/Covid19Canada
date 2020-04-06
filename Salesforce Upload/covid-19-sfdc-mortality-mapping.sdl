@@ -1,0 +1,13 @@
+#Mapping values
+#Mon Apr 06 13:33:17 EDT 2020
+death_source=COVID_19_Death_Source_URL__c
+province=COVID_19_Province__c
+country=COVID_19_Country__c
+death_id=COVID_19_Death_ID__c
+health_region=COVID_19_Health_Region__c
+additional_info=COVID_19_Additional_Information__c
+sex=COVID_19_Gender__c
+additional_source=COVID_19_Additional_Source_URL__c
+Owner_ID=OwnerId
+date_death_report_sfdc=COVID_19_Date_of_Death__c
+age=COVID_19_Age__c
